@@ -1,0 +1,23 @@
+{
+  "name": "logix-ton-one-per-timer",
+  "version": "1.0.0",
+  "description": "Studio 5000 / CompactLogix / ControlLogix: one TON, TOF, or RTO per TIMER tag. A false TON resets that timer every scan.",
+  "author": {
+    "name": "Andrea Zaccagnino",
+    "url": "https://github.com/AndreaZaccagnio"
+  },
+  "homepage": "https://github.com/AndreaZaccagnio/logix-ton-one-per-timer",
+  "repository": "https://github.com/AndreaZaccagnio/logix-ton-one-per-timer",
+  "license": "MIT",
+  "keywords": [
+    "studio-5000",
+    "compactlogix",
+    "controllogix",
+    "logix",
+    "TON",
+    "TIMER",
+    "rockwell",
+    "l5x",
+    "AOI"
+  ]
+}
